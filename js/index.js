@@ -174,15 +174,16 @@ $(function() {
 	w.load("<div class='writecode'>前端/VueJs 开发工程师</div></p>");
 	w.load("<h1 class='writecode'>联系我</h1>");
 	w.load("<ul>");
-	w.load("<li class='writecode'>mail:1336434510@qq.com</li>");
-	w.load("<li class='writecode'>blog:<a href='http://blog.youlunshidai.com' target='_blank'>blog.youlunshidai.com</a></li>");
+	w.load("<li class='writecode'>mail:zhangsl4510@foxmail.com</li>");
+	w.load("<li class='writecode'>Github:<a href='https://github.com/xiaopz' target='_blank'>https://github.com/xiaopz</a></li>");
+	w.load("<li class='writecode'>掘金:<a href='https://juejin.im/user/58ef8c4761ff4b0058df2f14' target='_blank'>https://juejin.im/user/58ef8c4761ff4b0058df2f14</a></li>");
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>技能</h1>");
 	w.load("<ul>");
-	w.load("<li class='writecode'>精通javaScript开发技术，有两年响应式开发和设计经验</li>");
+	w.load("<li class='writecode'>精通javaScript开发技术，有三年响应式开发和设计经验</li>");
 	w.load("<li class='writecode'>熟练小程序开发技术,熟练运用mpVue框架和iView</li>");
 	w.load("<li class='writecode'>熟练各种Web前端开发技术H5,CSS3,jQuery,Vue,mpVue,Angular</li>");
-	w.load("<li class='writecode'>熟练与各平台和硬件的技术对接（如: 微信接口，三方支付，系统整合）</li>");
+	w.load("<li class='writecode'>熟练使用Bootstarp框架，通过栅格系统快速布局响应式页面以适应不同设备</li>");
 	w.load("<li class='writecode'>熟练 angular 和 Vue 组件化</li>");
 	w.load("<li class='writecode'>熟练 gulp 和 webpack 打包工具对项目打包；</li>");
 	w.load("<li class='writecode'>熟练svn,git等常用版本管理工具</li>");
@@ -192,6 +193,7 @@ $(function() {
 	w.load("<ul>");
 	w.load("<li class='writecode'><a href='http://www.bikuai.org/' target='_blank'>www.bikuai.org/</a></li>");
 	w.load("<li class='writecode'><a href='http://www.yuexunai.com/' target='_blank'>www.yuexunai.com/</a></li>");
+	w.load("<li class='writecode'><a href='http://zeer.yuexunai.com/' target='_blank'>zeer.yuexunai.com//</a></li>");
 	w.load("<li class='writecode'><a href='#' target='_blank'>跃讯Ai(微信小程序)</a></li>");
 	w.load("<li class='writecode'><a href='#' target='_blank'>跃讯智能名片(微信小程序)</a></li>");
 	w.load("</ul>");
